@@ -25,7 +25,7 @@
 defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'block_recommendation';
-$plugin->release = '0.1.2';
+$plugin->release = '0.1.02';
 $plugin->version = 2025070302;
 $plugin->requires = 2022112800;
 $plugin->maturity = MATURITY_STABLE;
